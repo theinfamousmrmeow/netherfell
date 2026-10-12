@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_beetlerang",
-    "path":"sprites/spr_beetlerang/spr_beetlerang.yy",
+    "name":"spr_enemy_bat",
+    "path":"sprites/spr_enemy_bat/spr_enemy_bat.yy",
   },
   "spriteMaskId":null,
   "visible":true,
