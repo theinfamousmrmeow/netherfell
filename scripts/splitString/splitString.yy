@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"splitString",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"splitString",
+  "parent":{
+    "name":"Timestamps",
+    "path":"folders/Scripts/Timestamps.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"initAds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initAds",
+  "parent":{
+    "name":"Ads",
+    "path":"folders/Scripts/Ads.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

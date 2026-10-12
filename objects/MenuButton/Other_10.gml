@@ -1,0 +1,2 @@
+if (gameIsPaused()){unPauseGame();}
+menusClear();

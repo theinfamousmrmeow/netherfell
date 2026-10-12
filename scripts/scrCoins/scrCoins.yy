@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrCoins",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrCoins",
+  "parent":{
+    "name":"Coins",
+    "path":"folders/Scripts/Coins.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

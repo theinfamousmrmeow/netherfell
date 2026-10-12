@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getDailyReward",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getDailyReward",
+  "parent":{
+    "name":"Timestamps",
+    "path":"folders/Scripts/Timestamps.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

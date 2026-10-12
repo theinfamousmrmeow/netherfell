@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spendMana",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spendMana",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

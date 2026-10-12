@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bgmSetVolume",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bgmSetVolume",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Scripts/BGM.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

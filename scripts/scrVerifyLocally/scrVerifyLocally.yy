@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrVerifyLocally",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrVerifyLocally",
+  "parent":{
+    "name":"IAPs",
+    "path":"folders/Scripts/IAPs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

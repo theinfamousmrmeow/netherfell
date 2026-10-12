@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pauseGame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pauseGame",
+  "parent":{
+    "name":"Pause",
+    "path":"folders/Scripts/Pause.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

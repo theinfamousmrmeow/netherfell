@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfxFireSkull",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.41625,
+  "exportDir":"",
+  "name":"sfxFireSkull",
+  "parent":{
+    "name":"combatAttacking",
+    "path":"folders/Sounds/SFX/combatAttacking.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfxFireSkull.ogg",
+  "volume":1.0,
+}

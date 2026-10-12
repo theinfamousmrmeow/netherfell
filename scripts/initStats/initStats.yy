@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"initStats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initStats",
+  "parent":{
+    "name":"Stast",
+    "path":"folders/Scripts/Stast.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

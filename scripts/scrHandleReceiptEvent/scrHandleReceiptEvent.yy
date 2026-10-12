@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrHandleReceiptEvent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrHandleReceiptEvent",
+  "parent":{
+    "name":"IAPs",
+    "path":"folders/Scripts/IAPs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

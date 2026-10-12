@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrTimestamp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrTimestamp",
+  "parent":{
+    "name":"Timestamps",
+    "path":"folders/Scripts/Timestamps.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

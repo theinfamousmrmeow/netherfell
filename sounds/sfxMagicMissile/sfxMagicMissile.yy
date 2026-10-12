@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfxMagicMissile",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.365,
+  "exportDir":"",
+  "name":"sfxMagicMissile",
+  "parent":{
+    "name":"combatAttacking",
+    "path":"folders/Sounds/SFX/combatAttacking.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfxMagicMissile.ogg",
+  "volume":1.0,
+}

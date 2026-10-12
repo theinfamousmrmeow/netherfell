@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"openShopMenu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"openShopMenu",
+  "parent":{
+    "name":"Menus",
+    "path":"folders/Scripts/Menus.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
